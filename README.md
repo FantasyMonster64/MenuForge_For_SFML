@@ -20,4 +20,3 @@ I'll post a template for an empty game later.
 ## How it install
 ```
 git clone https://github.com/FantasyMonster64/MenuForge_For_SFML
-```sh
