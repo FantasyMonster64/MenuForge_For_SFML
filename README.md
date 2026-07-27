@@ -12,7 +12,7 @@ This works on Windows 10/11, but has not been tested on other OS.
 Compiler with C++20 support
 
 ## How to use this
-Build it with CMake
+Build it with CMake or use .SLNX file if you use Visual Studio 2026
 
 ## How to use it
 I'll post a template for an empty game later.
