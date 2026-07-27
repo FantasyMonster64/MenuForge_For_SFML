@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="sfml_menu_creator.vcxproj" Id="8006d091-6b63-42c2-8fad-d823972ab599" />
-</Solution>
